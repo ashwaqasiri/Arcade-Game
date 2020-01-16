@@ -1,6 +1,7 @@
 #  Arcade Game Project
 
 Project 3 of Udacity's FEND. The task was to recreate a classic 2D arcade game.
+ You can find the live demo powered by GitHub Pages [here](https://ashwaqasiri.github.io/Arcade-Game/).
 
 ## Table of Contents
 
